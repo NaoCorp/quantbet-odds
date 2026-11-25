@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-24T02:45:38.776Z",
+  "updated_at": "2026-11-25T00:23:43.988Z",
   "window_hours": 72,
-  "total_events": 23,
-  "credits_remaining": 436,
-  "credits_used": 64,
+  "total_events": 19,
+  "credits_remaining": 424,
+  "credits_used": 76,
   "errors": [],
   "events": [
     {
-      "id": "e422af92d1fc06c0a330838c1c2f2e08",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T17:45:00Z",
-      "home_team": "Galatasaray",
-      "away_team": "Aston Villa",
+      "id": "40d95e660c301c2d8a5a7a6317017b65",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-27T20:00:00Z",
+      "home_team": "Nottingham Forest",
+      "away_team": "Chelsea",
       "bookmakers": [
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:28Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Aston Villa",
-                  "price": 2.24
+                  "name": "Chelsea",
+                  "price": 2.82
                 },
                 {
-                  "name": "Galatasaray",
-                  "price": 3.04
+                  "name": "Nottingham Forest",
+                  "price": 2.61
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.42
                 }
               ]
             },
@@ -41,745 +41,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 2.01,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.88,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aston Villa",
-                  "price": 2.22
-                },
-                {
-                  "name": "Galatasaray",
-                  "price": 2.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.39,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.03,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aston Villa",
-                  "price": 2.25
-                },
-                {
-                  "name": "Galatasaray",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 4
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.97,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.89,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aston Villa",
-                  "price": 2.32
-                },
-                {
-                  "name": "Galatasaray",
-                  "price": 3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.98
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.97,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.97,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aston Villa",
-                  "price": 2.2
-                },
-                {
-                  "name": "Galatasaray",
-                  "price": 2.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.33,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.25,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aston Villa",
-                  "price": 2.28
-                },
-                {
-                  "name": "Galatasaray",
-                  "price": 2.96
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.92
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.91,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.91,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "50b80f3ebd38bf63663b11ae0afc575b",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T17:45:00Z",
-      "home_team": "Bodø/Glimt",
-      "away_team": "LASK",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bodø/Glimt",
-                  "price": 1.5
-                },
-                {
-                  "name": "LASK",
-                  "price": 5.69
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.24
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.93,
-                  "point": 3.75
-                },
-                {
-                  "name": "Under",
-                  "price": 1.96,
-                  "point": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bodø/Glimt",
-                  "price": 1.48
-                },
-                {
-                  "name": "LASK",
-                  "price": 5.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.05
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.28,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.75,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bodø/Glimt",
-                  "price": 1.53
-                },
-                {
-                  "name": "LASK",
-                  "price": 5.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 2.16,
-                  "point": 4
-                },
-                {
-                  "name": "Under",
-                  "price": 1.75,
-                  "point": 4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bodø/Glimt",
-                  "price": 1.53
-                },
-                {
-                  "name": "LASK",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.28
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.78,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.21,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bodø/Glimt",
-                  "price": 1.44
-                },
-                {
-                  "name": "LASK",
-                  "price": 5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.75
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.25,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.75,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bodø/Glimt",
-                  "price": 1.49
-                },
-                {
-                  "name": "LASK",
-                  "price": 5.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.15
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.73,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.14,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ba719e378ac366262013bdb51a06aa6f",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "Como",
-      "away_team": "AEK Athens",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AEK Athens",
-                  "price": 10.83
-                },
-                {
-                  "name": "Como",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.74
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.88,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AEK Athens",
-                  "price": 11.5
-                },
-                {
-                  "name": "Como",
-                  "price": 1.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.6
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.33,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.37,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AEK Athens",
-                  "price": 11
-                },
-                {
-                  "name": "Como",
-                  "price": 1.28
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.5
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.89,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
                   "price": 1.98,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AEK Athens",
-                  "price": 11.2
+                  "point": 2.75
                 },
                 {
-                  "name": "Como",
-                  "price": 1.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.43
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
+                  "name": "Under",
                   "price": 1.91,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.03,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AEK Athens",
-                  "price": 9.5
-                },
-                {
-                  "name": "Como",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.3,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.4,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AEK Athens",
-                  "price": 10.75
-                },
-                {
-                  "name": "Como",
-                  "price": 1.27
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.15
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.85,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.97,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aee4e3c225603397ab52de3d066b566b",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "Arsenal",
-      "away_team": "Borussia Dortmund",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Arsenal",
-                  "price": 1.43
-                },
-                {
-                  "name": "Borussia Dortmund",
-                  "price": 7.46
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.96
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 2.01,
-                  "point": 3
-                },
-                {
-                  "name": "Under",
-                  "price": 1.88,
-                  "point": 3
+                  "point": 2.75
                 }
               ]
             }
@@ -788,22 +56,22 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:23:07Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Arsenal",
-                  "price": 1.41
+                  "name": "Chelsea",
+                  "price": 2.71
                 },
                 {
-                  "name": "Borussia Dortmund",
-                  "price": 7.2
+                  "name": "Nottingham Forest",
+                  "price": 2.58
                 },
                 {
                   "name": "Draw",
-                  "price": 4.85
+                  "price": 3.38
                 }
               ]
             },
@@ -812,12 +80,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.6,
+                  "price": 1.77,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.37,
+                  "price": 2.08,
                   "point": 2.5
                 }
               ]
@@ -827,22 +95,22 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Arsenal",
-                  "price": 1.44
+                  "name": "Chelsea",
+                  "price": 2.65
                 },
                 {
-                  "name": "Borussia Dortmund",
-                  "price": 7.8
+                  "name": "Nottingham Forest",
+                  "price": 2.66
                 },
                 {
                   "name": "Draw",
-                  "price": 5
+                  "price": 3.5
                 }
               ]
             },
@@ -851,13 +119,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.99,
-                  "point": 3
+                  "price": 1.77,
+                  "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.88,
-                  "point": 3
+                  "price": 2.13,
+                  "point": 2.5
                 }
               ]
             }
@@ -866,22 +134,61 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:44Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Arsenal",
-                  "price": 1.45
+                  "name": "Chelsea",
+                  "price": 2.74
                 },
                 {
-                  "name": "Borussia Dortmund",
-                  "price": 7.7
+                  "name": "Nottingham Forest",
+                  "price": 2.61
                 },
                 {
                   "name": "Draw",
-                  "price": 5.07
+                  "price": 3.73
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.81,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.15,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 2.62
+                },
+                {
+                  "name": "Nottingham Forest",
+                  "price": 2.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
                 }
               ]
             },
@@ -895,46 +202,7 @@
                 },
                 {
                   "name": "Under",
-                  "price": 2.35,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Arsenal",
-                  "price": 1.4
-                },
-                {
-                  "name": "Borussia Dortmund",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.6
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.57,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.3,
+                  "price": 2.05,
                   "point": 2.5
                 }
               ]
@@ -944,22 +212,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:38Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Arsenal",
-                  "price": 1.43
+                  "name": "Chelsea",
+                  "price": 2.67
                 },
                 {
-                  "name": "Borussia Dortmund",
-                  "price": 7.6
+                  "name": "Nottingham Forest",
+                  "price": 2.54
                 },
                 {
                   "name": "Draw",
-                  "price": 5
+                  "price": 3.64
                 }
               ]
             },
@@ -968,12 +236,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.65,
+                  "price": 1.76,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.28,
+                  "price": 2.09,
                   "point": 2.5
                 }
               ]
@@ -983,32 +251,32 @@
       ]
     },
     {
-      "id": "9a2ebad454db4ab3d53b89e96c79847a",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "Feyenoord",
-      "away_team": "Porto",
+      "id": "80c92a163a81b69fef76530221e2edd0",
+      "sport_key": "soccer_spain_la_liga",
+      "sport_title": "La Liga - Spain",
+      "commence_time": "2026-11-27T20:00:00Z",
+      "home_team": "Levante",
+      "away_team": "Real Racing Club de Santander",
       "bookmakers": [
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:38Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Feyenoord",
-                  "price": 3.06
+                  "name": "Levante",
+                  "price": 2.1
                 },
                 {
-                  "name": "Porto",
-                  "price": 2.27
+                  "name": "Real Racing Club de Santander",
+                  "price": 3.27
                 },
                 {
                   "name": "Draw",
-                  "price": 3.81
+                  "price": 4.01
                 }
               ]
             },
@@ -1017,13 +285,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.99,
-                  "point": 3
+                  "price": 2.04,
+                  "point": 3.25
                 },
                 {
                   "name": "Under",
-                  "price": 1.9,
-                  "point": 3
+                  "price": 1.85,
+                  "point": 3.25
                 }
               ]
             }
@@ -1032,22 +300,22 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:23:34Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Feyenoord",
-                  "price": 2.95
+                  "name": "Levante",
+                  "price": 2.05
                 },
                 {
-                  "name": "Porto",
-                  "price": 2.28
+                  "name": "Real Racing Club de Santander",
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.75
                 }
               ]
             },
@@ -1056,12 +324,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.6,
+                  "price": 1.51,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.37,
+                  "price": 2.61,
                   "point": 2.5
                 }
               ]
@@ -1071,18 +339,18 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Feyenoord",
-                  "price": 3
+                  "name": "Levante",
+                  "price": 2.1
                 },
                 {
-                  "name": "Porto",
-                  "price": 2.34
+                  "name": "Real Racing Club de Santander",
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
@@ -1095,501 +363,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.99,
-                  "point": 3
-                },
-                {
-                  "name": "Under",
-                  "price": 1.88,
-                  "point": 3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Feyenoord",
-                  "price": 3.04
-                },
-                {
-                  "name": "Porto",
-                  "price": 2.35
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.82
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.65,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.44,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Feyenoord",
-                  "price": 2.8
-                },
-                {
-                  "name": "Porto",
-                  "price": 2.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.57,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.3,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Feyenoord",
-                  "price": 2.96
-                },
-                {
-                  "name": "Porto",
-                  "price": 2.29
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.72
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 2.46,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.56,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b9f00a4d399ec661e733857c9d5fb2dc",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "Manchester City",
-      "away_team": "Napoli",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Manchester City",
-                  "price": 1.3
-                },
-                {
-                  "name": "Napoli",
-                  "price": 8.84
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.33
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.81,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.07,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Manchester City",
-                  "price": 1.28
-                },
-                {
-                  "name": "Napoli",
-                  "price": 8.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.4
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.32,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.43,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Manchester City",
-                  "price": 1.3
-                },
-                {
-                  "name": "Napoli",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.65
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.82,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.06,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Manchester City",
-                  "price": 1.31
-                },
-                {
-                  "name": "Napoli",
-                  "price": 10.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.4
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.92,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.02,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Manchester City",
-                  "price": 1.29
-                },
-                {
-                  "name": "Napoli",
-                  "price": 9
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.3,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.4,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Manchester City",
-                  "price": 1.29
-                },
-                {
-                  "name": "Napoli",
-                  "price": 10.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.3
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.86,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.96,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3fb5e4a792cf34a0459efcb79a11a785",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "Real Madrid",
-      "away_team": "PSV Eindhoven",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "PSV Eindhoven",
-                  "price": 13.05
-                },
-                {
-                  "name": "Real Madrid",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.46
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.83,
-                  "point": 4.25
-                },
-                {
-                  "name": "Under",
-                  "price": 2.06,
-                  "point": 4.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "PSV Eindhoven",
-                  "price": 15
-                },
-                {
-                  "name": "Real Madrid",
-                  "price": 1.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.7
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.16,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 5.4,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "PSV Eindhoven",
-                  "price": 13.5
-                },
-                {
-                  "name": "Real Madrid",
-                  "price": 1.19
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.35
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 2.03,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
                   "price": 1.85,
-                  "point": 4.5
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 2.05,
+                  "point": 3
                 }
               ]
             }
@@ -1598,22 +378,22 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "PSV Eindhoven",
-                  "price": 14.8
+                  "name": "Levante",
+                  "price": 2.19
                 },
                 {
-                  "name": "Real Madrid",
-                  "price": 1.19
+                  "name": "Real Racing Club de Santander",
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
-                  "price": 9.25
+                  "price": 3.98
                 }
               ]
             },
@@ -1622,13 +402,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 2.06,
-                  "point": 4.5
+                  "price": 2.25,
+                  "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.89,
-                  "point": 4.5
+                  "price": 1.75,
+                  "point": 3.5
                 }
               ]
             }
@@ -1637,22 +417,22 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:38Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "PSV Eindhoven",
-                  "price": 12
+                  "name": "Levante",
+                  "price": 2.1
                 },
                 {
-                  "name": "Real Madrid",
-                  "price": 1.15
+                  "name": "Real Racing Club de Santander",
+                  "price": 3
                 },
                 {
                   "name": "Draw",
-                  "price": 8
+                  "price": 3.6
                 }
               ]
             },
@@ -1661,12 +441,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.14,
+                  "price": 1.5,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 5,
+                  "price": 2.5,
                   "point": 2.5
                 }
               ]
@@ -1676,22 +456,110 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:22:54Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "PSV Eindhoven",
-                  "price": 14.5
+                  "name": "Levante",
+                  "price": 2.13
                 },
                 {
-                  "name": "Real Madrid",
-                  "price": 1.17
+                  "name": "Real Racing Club de Santander",
+                  "price": 3.16
                 },
                 {
                   "name": "Draw",
-                  "price": 9.1
+                  "price": 3.88
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.18,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.7,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9a663f13e7503c0ac20a54804338b60",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A - Italy",
+      "commence_time": "2026-11-27T19:45:00Z",
+      "home_team": "Venezia",
+      "away_team": "Bologna",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-25T00:23:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bologna",
+                  "price": 2.24
+                },
+                {
+                  "name": "Venezia",
+                  "price": 3.51
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.34
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.09,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.82,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:13Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bologna",
+                  "price": 2.2
+                },
+                {
+                  "name": "Venezia",
+                  "price": 3.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
                 }
               ]
             },
@@ -1701,99 +569,11 @@
                 {
                   "name": "Over",
                   "price": 2,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.83,
-                  "point": 4.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aea973c122c91837c15e066c757c747f",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "RB Leipzig",
-      "away_team": "RC Lens",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "RB Leipzig",
-                  "price": 1.39
-                },
-                {
-                  "name": "RC Lens",
-                  "price": 6.76
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.98
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.99,
-                  "point": 3.75
-                },
-                {
-                  "name": "Under",
-                  "price": 1.9,
-                  "point": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "RB Leipzig",
-                  "price": 1.34
-                },
-                {
-                  "name": "RC Lens",
-                  "price": 7.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.29,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 3.66,
+                  "price": 1.82,
                   "point": 2.5
                 }
               ]
@@ -1803,22 +583,22 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:23:16Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "RB Leipzig",
-                  "price": 1.41
+                  "name": "Bologna",
+                  "price": 2.18
                 },
                 {
-                  "name": "RC Lens",
-                  "price": 6.95
+                  "name": "Venezia",
+                  "price": 3.6
                 },
                 {
                   "name": "Draw",
-                  "price": 5.85
+                  "price": 3.35
                 }
               ]
             },
@@ -1827,13 +607,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.78,
-                  "point": 3.5
+                  "price": 2.06,
+                  "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.11,
-                  "point": 3.5
+                  "price": 1.84,
+                  "point": 2.5
                 }
               ]
             }
@@ -1842,22 +622,22 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:23:17Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "RB Leipzig",
-                  "price": 1.44
+                  "name": "Bologna",
+                  "price": 2.23
                 },
                 {
-                  "name": "RC Lens",
-                  "price": 6.83
+                  "name": "Venezia",
+                  "price": 3.48
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 3.58
                 }
               ]
             },
@@ -1866,257 +646,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.84,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.11,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "RB Leipzig",
-                  "price": 1.36
-                },
-                {
-                  "name": "RC Lens",
-                  "price": 6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.29,
+                  "price": 2.07,
                   "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.5,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "RB Leipzig",
-                  "price": 1.4
-                },
-                {
-                  "name": "RC Lens",
-                  "price": 6.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.79,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.05,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8e93849b4c1ccbf1c207836d5c470150",
-      "sport_key": "soccer_uefa_champs_league",
-      "sport_title": "UEFA Champions League",
-      "commence_time": "2026-11-24T20:00:00Z",
-      "home_team": "ŠK Slovan Bratislava",
-      "away_team": "Real Betis",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Real Betis",
-                  "price": 1.26
-                },
-                {
-                  "name": "ŠK Slovan Bratislava",
-                  "price": 10.64
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.59
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.99,
-                  "point": 3.5
                 },
                 {
                   "name": "Under",
                   "price": 1.88,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Real Betis",
-                  "price": 1.24
-                },
-                {
-                  "name": "ŠK Slovan Bratislava",
-                  "price": 10.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.6
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.36,
                   "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 3.21,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Real Betis",
-                  "price": 1.26
-                },
-                {
-                  "name": "ŠK Slovan Bratislava",
-                  "price": 11.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.95
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.98,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.89,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Real Betis",
-                  "price": 1.27
-                },
-                {
-                  "name": "ŠK Slovan Bratislava",
-                  "price": 11.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.9
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.97,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.97,
-                  "point": 3.5
                 }
               ]
             }
@@ -2125,22 +661,22 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:36Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Real Betis",
-                  "price": 1.25
+                  "name": "Bologna",
+                  "price": 2.15
                 },
                 {
-                  "name": "ŠK Slovan Bratislava",
-                  "price": 10
+                  "name": "Venezia",
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
-                  "price": 6
+                  "price": 3.3
                 }
               ]
             },
@@ -2149,12 +685,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.3,
+                  "price": 1.91,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 3.4,
+                  "price": 1.91,
                   "point": 2.5
                 }
               ]
@@ -2164,22 +700,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:22:54Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Real Betis",
-                  "price": 1.25
+                  "name": "Bologna",
+                  "price": 2.16
                 },
                 {
-                  "name": "ŠK Slovan Bratislava",
-                  "price": 11
+                  "name": "Venezia",
+                  "price": 3.38
                 },
                 {
                   "name": "Draw",
-                  "price": 6.55
+                  "price": 3.48
                 }
               ]
             },
@@ -2188,13 +724,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.91,
-                  "point": 3.5
+                  "price": 2,
+                  "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.91,
-                  "point": 3.5
+                  "price": 1.82,
+                  "point": 2.5
                 }
               ]
             }
@@ -2213,22 +749,22 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Barcelona",
-                  "price": 1.09
+                  "price": 1.08
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 22.62
+                  "price": 23.8
                 },
                 {
                   "name": "Draw",
-                  "price": 13.5
+                  "price": 13.69
                 }
               ]
             },
@@ -2252,22 +788,22 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Barcelona",
-                  "price": 1.08
+                  "price": 1.07
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 22
+                  "price": 24
                 },
                 {
                   "name": "Draw",
-                  "price": 12.5
+                  "price": 13.5
                 }
               ]
             },
@@ -2281,7 +817,7 @@
                 },
                 {
                   "name": "Under",
-                  "price": 7.22,
+                  "price": 7.09,
                   "point": 2.5
                 }
               ]
@@ -2291,7 +827,7 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:53Z",
           "markets": [
             {
               "key": "h2h",
@@ -2330,22 +866,22 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Barcelona",
-                  "price": 1.09
+                  "price": 1.1
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 29
+                  "price": 26
                 },
                 {
                   "name": "Draw",
-                  "price": 16.5
+                  "price": 15.5
                 }
               ]
             },
@@ -2369,14 +905,14 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Barcelona",
-                  "price": 1.08
+                  "price": 1.07
                 },
                 {
                   "name": "Sabah FK",
@@ -2384,7 +920,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 13
+                  "price": 12
                 }
               ]
             },
@@ -2408,14 +944,14 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Barcelona",
-                  "price": 1.08
+                  "price": 1.09
                 },
                 {
                   "name": "Sabah FK",
@@ -2423,7 +959,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 13.75
+                  "price": 14.25
                 }
               ]
             },
@@ -2457,18 +993,96 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Slavia Praha",
-                  "price": 3.18
+                  "price": 3.05
                 },
                 {
                   "name": "Villarreal",
-                  "price": 2.14
+                  "price": 2.19
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.06
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.98,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 3.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:22:48Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Slavia Praha",
+                  "price": 3.05
+                },
+                {
+                  "name": "Villarreal",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.49,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.66,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "coolbet",
+          "title": "Coolbet",
+          "last_update": "2026-11-25T00:22:53Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Slavia Praha",
+                  "price": 3.15
+                },
+                {
+                  "name": "Villarreal",
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
@@ -2481,12 +1095,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.84,
+                  "price": 1.79,
                   "point": 3
                 },
                 {
                   "name": "Under",
-                  "price": 2.06,
+                  "price": 2.1,
                   "point": 3
                 }
               ]
@@ -2494,9 +1108,9 @@
           ]
         },
         {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -2507,11 +1121,11 @@
                 },
                 {
                   "name": "Villarreal",
-                  "price": 2.15
+                  "price": 2.23
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 4.09
                 }
               ]
             },
@@ -2520,90 +1134,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.52,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.57,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Slavia Praha",
-                  "price": 3.2
-                },
-                {
-                  "name": "Villarreal",
-                  "price": 2.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 4
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.8,
-                  "point": 3
-                },
-                {
-                  "name": "Under",
-                  "price": 2.02,
-                  "point": 3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Slavia Praha",
-                  "price": 3.21
-                },
-                {
-                  "name": "Villarreal",
-                  "price": 2.19
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.04
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 2.36,
+                  "price": 2.25,
                   "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.69,
+                  "price": 1.75,
                   "point": 3.5
                 }
               ]
@@ -2613,14 +1149,14 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Slavia Praha",
-                  "price": 3
+                  "price": 2.9
                 },
                 {
                   "name": "Villarreal",
@@ -2637,12 +1173,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.5,
+                  "price": 1.44,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.5,
+                  "price": 2.62,
                   "point": 2.5
                 }
               ]
@@ -2652,22 +1188,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Slavia Praha",
-                  "price": 3.12
+                  "price": 3.02
                 },
                 {
                   "name": "Villarreal",
-                  "price": 2.13
+                  "price": 2.17
                 },
                 {
                   "name": "Draw",
-                  "price": 3.94
+                  "price": 3.98
                 }
               ]
             },
@@ -2676,12 +1212,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 2.29,
+                  "price": 2.18,
                   "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.64,
+                  "price": 1.7,
                   "point": 3.5
                 }
               ]
@@ -2701,22 +1237,22 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 7.19
+                  "price": 6.7
                 },
                 {
                   "name": "Paris Saint Germain",
-                  "price": 1.43
+                  "price": 1.45
                 },
                 {
                   "name": "Draw",
-                  "price": 5.11
+                  "price": 5.08
                 }
               ]
             },
@@ -2725,12 +1261,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.91,
+                  "price": 1.79,
                   "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.98,
+                  "price": 2.12,
                   "point": 3.5
                 }
               ]
@@ -2740,18 +1276,57 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 6.6
+                  "price": 6.2
                 },
                 {
                   "name": "Paris Saint Germain",
-                  "price": 1.41
+                  "price": 1.44
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.05
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.31,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 3.51,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "coolbet",
+          "title": "Coolbet",
+          "last_update": "2026-11-25T00:22:53Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AS Roma",
+                  "price": 6.75
+                },
+                {
+                  "name": "Paris Saint Germain",
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
@@ -2764,37 +1339,37 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.34,
-                  "point": 2.5
+                  "price": 1.83,
+                  "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 3.32,
-                  "point": 2.5
+                  "price": 2.05,
+                  "point": 3.5
                 }
               ]
             }
           ]
         },
         {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 7
+                  "price": 6.34
                 },
                 {
                   "name": "Paris Saint Germain",
-                  "price": 1.44
+                  "price": 1.49
                 },
                 {
                   "name": "Draw",
-                  "price": 5.25
+                  "price": 5.33
                 }
               ]
             },
@@ -2808,46 +1383,7 @@
                 },
                 {
                   "name": "Under",
-                  "price": 1.94,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AS Roma",
-                  "price": 6.88
-                },
-                {
-                  "name": "Paris Saint Germain",
-                  "price": 1.45
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.55
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.92,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.02,
+                  "price": 2.08,
                   "point": 3.5
                 }
               ]
@@ -2857,14 +1393,14 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 6
+                  "price": 5.8
                 },
                 {
                   "name": "Paris Saint Germain",
@@ -2872,7 +1408,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.6
                 }
               ]
             },
@@ -2896,22 +1432,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 6.7
+                  "price": 6.25
                 },
                 {
                   "name": "Paris Saint Germain",
-                  "price": 1.41
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
-                  "price": 5.4
+                  "price": 5.25
                 }
               ]
             },
@@ -2920,12 +1456,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.86,
+                  "price": 1.82,
                   "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.96,
+                  "price": 2.02,
                   "point": 3.5
                 }
               ]
@@ -2945,7 +1481,46 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Madrid",
+                  "price": 1.11
+                },
+                {
+                  "name": "Viking FK",
+                  "price": 23.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.93
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.83,
+                  "point": 3.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.05,
+                  "point": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -2956,50 +1531,11 @@
                 },
                 {
                   "name": "Viking FK",
-                  "price": 24.92
+                  "price": 24
                 },
                 {
                   "name": "Draw",
-                  "price": 11.44
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.79,
-                  "point": 3.75
-                },
-                {
-                  "name": "Under",
-                  "price": 2.1,
-                  "point": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlético Madrid",
-                  "price": 1.09
-                },
-                {
-                  "name": "Viking FK",
-                  "price": 26
-                },
-                {
-                  "name": "Draw",
-                  "price": 11
+                  "price": 10
                 }
               ]
             },
@@ -3023,7 +1559,7 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:53Z",
           "markets": [
             {
               "key": "h2h",
@@ -3047,12 +1583,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 2,
+                  "price": 2.02,
                   "point": 4
                 },
                 {
                   "name": "Under",
-                  "price": 1.87,
+                  "price": 1.85,
                   "point": 4
                 }
               ]
@@ -3062,7 +1598,7 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -3101,7 +1637,7 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
@@ -3112,11 +1648,11 @@
                 },
                 {
                   "name": "Viking FK",
-                  "price": 21
+                  "price": 19
                 },
                 {
                   "name": "Draw",
-                  "price": 11
+                  "price": 10
                 }
               ]
             },
@@ -3140,7 +1676,7 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
@@ -3189,57 +1725,18 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.65
+                  "price": 1.68
                 },
                 {
                   "name": "Lille",
-                  "price": 5.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.34
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.94,
-                  "point": 3
-                },
-                {
-                  "name": "Under",
-                  "price": 1.94,
-                  "point": 3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.6
-                },
-                {
-                  "name": "Lille",
-                  "price": 5.2
+                  "price": 4.89
                 },
                 {
                   "name": "Draw",
@@ -3252,51 +1749,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.56,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 2.46,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.63
-                },
-                {
-                  "name": "Lille",
-                  "price": 5.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.85,
+                  "price": 2.07,
                   "point": 3
                 },
                 {
                   "name": "Under",
-                  "price": 1.96,
+                  "price": 1.83,
                   "point": 3
                 }
               ]
@@ -3304,9 +1762,9 @@
           ]
         },
         {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -3317,11 +1775,11 @@
                 },
                 {
                   "name": "Lille",
-                  "price": 5.34
+                  "price": 5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.47
+                  "price": 4.15
                 }
               ]
             },
@@ -3330,13 +1788,91 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 2.49,
-                  "point": 3.5
+                  "price": 1.63,
+                  "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.63,
-                  "point": 3.5
+                  "price": 2.3,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "coolbet",
+          "title": "Coolbet",
+          "last_update": "2026-11-25T00:22:53Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.68
+                },
+                {
+                  "name": "Lille",
+                  "price": 5.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.29
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.85,
+                  "point": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:22:48Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.69
+                },
+                {
+                  "name": "Lille",
+                  "price": 5.18
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.32
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.66,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.41,
+                  "point": 2.5
                 }
               ]
             }
@@ -3345,22 +1881,22 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.57
+                  "price": 1.62
                 },
                 {
                   "name": "Lille",
-                  "price": 4.8
+                  "price": 4.6
                 },
                 {
                   "name": "Draw",
-                  "price": 4
+                  "price": 3.9
                 }
               ]
             },
@@ -3369,12 +1905,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.5,
+                  "price": 1.53,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.5,
+                  "price": 2.38,
                   "point": 2.5
                 }
               ]
@@ -3384,22 +1920,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.61
+                  "price": 1.67
                 },
                 {
                   "name": "Lille",
-                  "price": 5.2
+                  "price": 5.1
                 },
                 {
                   "name": "Draw",
-                  "price": 4.35
+                  "price": 4.25
                 }
               ]
             },
@@ -3408,12 +1944,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 2.41,
+                  "price": 2.51,
                   "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.58,
+                  "price": 1.54,
                   "point": 3.5
                 }
               ]
@@ -3433,7 +1969,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
@@ -3448,7 +1984,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.85
+                  "price": 4.83
                 }
               ]
             },
@@ -3457,12 +1993,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.93,
+                  "price": 1.94,
                   "point": 3.75
                 },
                 {
                   "name": "Under",
-                  "price": 1.96,
+                  "price": 1.94,
                   "point": 3.75
                 }
               ]
@@ -3472,7 +2008,7 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -3496,12 +2032,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.28,
+                  "price": 1.29,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 3.75,
+                  "price": 3.66,
                   "point": 2.5
                 }
               ]
@@ -3511,22 +2047,22 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:53Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Club Brugge",
-                  "price": 4.5
+                  "price": 4.65
                 },
                 {
                   "name": "Liverpool",
-                  "price": 1.68
+                  "price": 1.66
                 },
                 {
                   "name": "Draw",
-                  "price": 4.75
+                  "price": 4.85
                 }
               ]
             },
@@ -3535,12 +2071,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.76,
+                  "price": 1.75,
                   "point": 3.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.08,
+                  "price": 2.15,
                   "point": 3.5
                 }
               ]
@@ -3550,7 +2086,7 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -3589,7 +2125,7 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
@@ -3628,7 +2164,7 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
@@ -3677,22 +2213,22 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Fenerbahce",
-                  "price": 2.64
+                  "price": 2.35
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 2.69
+                  "price": 3.05
                 },
                 {
                   "name": "Draw",
-                  "price": 3.58
+                  "price": 3.61
                 }
               ]
             },
@@ -3701,12 +2237,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.96,
+                  "price": 2.03,
                   "point": 2.75
                 },
                 {
                   "name": "Under",
-                  "price": 1.93,
+                  "price": 1.86,
                   "point": 2.75
                 }
               ]
@@ -3716,22 +2252,22 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Fenerbahce",
-                  "price": 2.62
+                  "price": 2.3
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 2.62
+                  "price": 3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.5
                 }
               ]
             },
@@ -3740,12 +2276,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.73,
+                  "price": 1.76,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.13,
+                  "price": 2.09,
                   "point": 2.5
                 }
               ]
@@ -3755,22 +2291,22 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:53Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Fenerbahce",
-                  "price": 2.65
+                  "price": 2.45
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 2.65
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.65
                 }
               ]
             },
@@ -3779,12 +2315,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.71,
+                  "price": 1.76,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.15,
+                  "price": 2.14,
                   "point": 2.5
                 }
               ]
@@ -3794,22 +2330,22 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Fenerbahce",
-                  "price": 2.7
+                  "price": 2.5
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 2.75
+                  "price": 2.96
                 },
                 {
                   "name": "Draw",
-                  "price": 3.56
+                  "price": 3.62
                 }
               ]
             },
@@ -3823,7 +2359,7 @@
                 },
                 {
                   "name": "Under",
-                  "price": 2.17,
+                  "price": 2.15,
                   "point": 2.5
                 }
               ]
@@ -3833,22 +2369,22 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Fenerbahce",
-                  "price": 2.5
+                  "price": 2.3
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 2.6
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.3
                 }
               ]
             },
@@ -3857,12 +2393,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.67,
+                  "price": 1.7,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.1,
+                  "price": 2.05,
                   "point": 2.5
                 }
               ]
@@ -3872,22 +2408,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Fenerbahce",
-                  "price": 2.62
+                  "price": 2.43
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 2.68
+                  "price": 2.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.46
+                  "price": 3.52
                 }
               ]
             },
@@ -3896,12 +2432,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.75,
+                  "price": 1.76,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.1,
+                  "price": 2.09,
                   "point": 2.5
                 }
               ]
@@ -3921,7 +2457,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
@@ -3932,11 +2468,11 @@
                 },
                 {
                   "name": "VfB Stuttgart",
-                  "price": 6.28
+                  "price": 6.36
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 5.76
                 }
               ]
             },
@@ -3945,12 +2481,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.78,
+                  "price": 1.81,
                   "point": 3.75
                 },
                 {
                   "name": "Under",
-                  "price": 2.14,
+                  "price": 2.1,
                   "point": 3.75
                 }
               ]
@@ -3960,57 +2496,18 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Inter Milan",
-                  "price": 1.4
+                  "price": 1.41
                 },
                 {
                   "name": "VfB Stuttgart",
-                  "price": 6.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.23,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 4.22,
-                  "point": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Inter Milan",
-                  "price": 1.43
-                },
-                {
-                  "name": "VfB Stuttgart",
-                  "price": 6.75
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
@@ -4023,12 +2520,51 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.96,
+                  "price": 1.25,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 4.04,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "coolbet",
+          "title": "Coolbet",
+          "last_update": "2026-11-25T00:22:53Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Inter Milan",
+                  "price": 1.43
+                },
+                {
+                  "name": "VfB Stuttgart",
+                  "price": 6.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.97,
                   "point": 4
                 },
                 {
                   "name": "Under",
-                  "price": 1.85,
+                  "price": 1.9,
                   "point": 4
                 }
               ]
@@ -4038,22 +2574,22 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Inter Milan",
-                  "price": 1.45
+                  "price": 1.44
                 },
                 {
                   "name": "VfB Stuttgart",
-                  "price": 6.67
+                  "price": 6.75
                 },
                 {
                   "name": "Draw",
-                  "price": 5.7
+                  "price": 5.74
                 }
               ]
             },
@@ -4077,7 +2613,7 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
@@ -4116,22 +2652,22 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Inter Milan",
-                  "price": 1.41
+                  "price": 1.42
                 },
                 {
                   "name": "VfB Stuttgart",
-                  "price": 6.5
+                  "price": 6.65
                 },
                 {
                   "name": "Draw",
-                  "price": 5.55
+                  "price": 5.65
                 }
               ]
             },
@@ -4165,22 +2701,22 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:23:33Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Manchester United",
-                  "price": 2.72
+                  "price": 2.59
                 },
                 {
                   "name": "Sporting Lisbon",
-                  "price": 2.5
+                  "price": 2.59
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.87
                 }
               ]
             },
@@ -4189,12 +2725,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.88,
+                  "price": 1.81,
                   "point": 3
                 },
                 {
                   "name": "Under",
-                  "price": 2.01,
+                  "price": 2.1,
                   "point": 3
                 }
               ]
@@ -4204,22 +2740,22 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:44:42Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Manchester United",
-                  "price": 2.68
+                  "price": 2.58
                 },
                 {
                   "name": "Sporting Lisbon",
-                  "price": 2.45
+                  "price": 2.58
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.6
                 }
               ]
             },
@@ -4228,12 +2764,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.54,
+                  "price": 1.52,
                   "point": 2.5
                 },
                 {
                   "name": "Under",
-                  "price": 2.51,
+                  "price": 2.57,
                   "point": 2.5
                 }
               ]
@@ -4243,18 +2779,18 @@
         {
           "key": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-11-24T02:44:59Z",
+          "last_update": "2026-11-25T00:22:53Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Manchester United",
-                  "price": 2.75
+                  "price": 2.64
                 },
                 {
                   "name": "Sporting Lisbon",
-                  "price": 2.45
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
@@ -4267,12 +2803,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.91,
+                  "price": 1.85,
                   "point": 3
                 },
                 {
                   "name": "Under",
-                  "price": 1.95,
+                  "price": 2.03,
                   "point": 3
                 }
               ]
@@ -4282,7 +2818,7 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:11Z",
+          "last_update": "2026-11-25T00:22:48Z",
           "markets": [
             {
               "key": "h2h",
@@ -4321,7 +2857,7 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:12Z",
+          "last_update": "2026-11-25T00:22:50Z",
           "markets": [
             {
               "key": "h2h",
@@ -4360,7 +2896,7 @@
         {
           "key": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:17Z",
+          "last_update": "2026-11-25T00:23:42Z",
           "markets": [
             {
               "key": "h2h",
@@ -4399,573 +2935,28 @@
       ]
     },
     {
-      "id": "3e9dc52cb055c0154839c4aec417955b",
-      "sport_key": "basketball_nba",
-      "sport_title": "NBA",
-      "commence_time": "2026-11-24T03:10:00Z",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Utah Jazz",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:36Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles Lakers",
-                  "price": 1.14
-                },
-                {
-                  "name": "Utah Jazz",
-                  "price": 6.32
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.98,
-                  "point": 225.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.89,
-                  "point": 225.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:45:37Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles Lakers",
-                  "price": 1.12
-                },
-                {
-                  "name": "Utah Jazz",
-                  "price": 5.75
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.9,
-                  "point": 225.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.86,
-                  "point": 225.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:45:24Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles Lakers",
-                  "price": 1.14
-                },
-                {
-                  "name": "Utah Jazz",
-                  "price": 6.1
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.93,
-                  "point": 225.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.91,
-                  "point": 225.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles Lakers",
-                  "price": 1.14
-                },
-                {
-                  "name": "Utah Jazz",
-                  "price": 6.34
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.9,
-                  "point": 224.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.97,
-                  "point": 224.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles Lakers",
-                  "price": 1.11
-                },
-                {
-                  "name": "Utah Jazz",
-                  "price": 6.5
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.91,
-                  "point": 225.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.91,
-                  "point": 225.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:25Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles Lakers",
-                  "price": 1.14
-                },
-                {
-                  "name": "Utah Jazz",
-                  "price": 6
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.84,
-                  "point": 224.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.97,
-                  "point": 224.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17f31499f145cd9d3232819395d29448",
-      "sport_key": "basketball_nba",
-      "sport_title": "NBA",
-      "commence_time": "2026-11-24T03:10:00Z",
-      "home_team": "Sacramento Kings",
-      "away_team": "San Antonio Spurs",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:36Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Sacramento Kings",
-                  "price": 3.49
-                },
-                {
-                  "name": "San Antonio Spurs",
-                  "price": 1.36
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.95,
-                  "point": 223
-                },
-                {
-                  "name": "Under",
-                  "price": 1.93,
-                  "point": 223
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:45:37Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Sacramento Kings",
-                  "price": 3.3
-                },
-                {
-                  "name": "San Antonio Spurs",
-                  "price": 1.3
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.88,
-                  "point": 223.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.88,
-                  "point": 223.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-11-24T02:45:24Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Sacramento Kings",
-                  "price": 3.5
-                },
-                {
-                  "name": "San Antonio Spurs",
-                  "price": 1.33
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.91,
-                  "point": 223.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.93,
-                  "point": 223.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Sacramento Kings",
-                  "price": 3.52
-                },
-                {
-                  "name": "San Antonio Spurs",
-                  "price": 1.33
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.89,
-                  "point": 222.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.98,
-                  "point": 222.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Sacramento Kings",
-                  "price": 3.5
-                },
-                {
-                  "name": "San Antonio Spurs",
-                  "price": 1.3
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.8,
-                  "point": 223.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.95,
-                  "point": 223.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-11-24T02:45:25Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Sacramento Kings",
-                  "price": 3.8
-                },
-                {
-                  "name": "San Antonio Spurs",
-                  "price": 1.28
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.85,
-                  "point": 222.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.95,
-                  "point": 222.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "42f48a4769eab3d1472d76aac0fd0fa7",
       "sport_key": "basketball_nba",
       "sport_title": "NBA",
-      "commence_time": "2026-11-25T00:11:00Z",
+      "commence_time": "2026-11-25T00:12:00Z",
       "home_team": "Orlando Magic",
       "away_team": "Detroit Pistons",
       "bookmakers": [
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:36Z",
+          "last_update": "2026-11-25T00:09:55Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Detroit Pistons",
-                  "price": 1.79
+                  "price": 2.33
                 },
                 {
                   "name": "Orlando Magic",
-                  "price": 2.12
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.93,
-                  "point": 213.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.93,
-                  "point": 213.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:45:37Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Detroit Pistons",
-                  "price": 1.78
-                },
-                {
-                  "name": "Orlando Magic",
-                  "price": 2.02
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.86,
-                  "point": 213.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.9,
-                  "point": 213.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Detroit Pistons",
-                  "price": 1.79
-                },
-                {
-                  "name": "Orlando Magic",
-                  "price": 2.09
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.92,
-                  "point": 213.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.94,
-                  "point": 213.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Detroit Pistons",
-                  "price": 1.8
-                },
-                {
-                  "name": "Orlando Magic",
-                  "price": 2
+                  "price": 1.69
                 }
               ]
             },
@@ -4975,12 +2966,117 @@
                 {
                   "name": "Over",
                   "price": 1.95,
-                  "point": 214.5
+                  "point": 210.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.8,
-                  "point": 214.5
+                  "price": 1.93,
+                  "point": 210.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": 2.15
+                },
+                {
+                  "name": "Orlando Magic",
+                  "price": 1.65
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 4,
+                  "point": 222.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.16,
+                  "point": 222.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": 1.91
+                },
+                {
+                  "name": "Orlando Magic",
+                  "price": 1.91
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2,
+                  "point": 206.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.73,
+                  "point": 206.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "marathonbet",
+          "title": "Marathon Bet",
+          "last_update": "2026-11-25T00:23:34Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": 2.04
+                },
+                {
+                  "name": "Orlando Magic",
+                  "price": 1.73
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.83,
+                  "point": 203.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.89,
+                  "point": 203.5
                 }
               ]
             }
@@ -4989,18 +3085,18 @@
         {
           "key": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-11-24T02:45:37Z",
+          "last_update": "2026-11-25T00:23:28Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Detroit Pistons",
-                  "price": 1.82
+                  "price": 2.3
                 },
                 {
                   "name": "Orlando Magic",
-                  "price": 2.12
+                  "price": 1.75
                 }
               ]
             },
@@ -5009,11 +3105,11 @@
               "outcomes": [
                 {
                   "name": "Detroit Pistons",
-                  "price": 1.89
+                  "price": 2.32
                 },
                 {
                   "name": "Orlando Magic",
-                  "price": 2.22
+                  "price": 1.77
                 }
               ]
             }
@@ -5022,18 +3118,18 @@
         {
           "key": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-11-24T02:45:23Z",
+          "last_update": "2026-11-25T00:23:06Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Detroit Pistons",
-                  "price": 1.78
+                  "price": 2.15
                 },
                 {
                   "name": "Orlando Magic",
-                  "price": 2.02
+                  "price": 1.65
                 }
               ]
             },
@@ -5042,13 +3138,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.86,
-                  "point": 213.5
+                  "price": 4,
+                  "point": 222.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.9,
-                  "point": 213.5
+                  "price": 1.16,
+                  "point": 222.5
                 }
               ]
             }
@@ -5067,18 +3163,18 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:36Z",
+          "last_update": "2026-11-25T00:23:05Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Boston Celtics",
-                  "price": 1.22
+                  "price": 1.24
                 },
                 {
                   "name": "Washington Wizards",
-                  "price": 4.65
+                  "price": 4.53
                 }
               ]
             },
@@ -5087,13 +3183,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.93,
-                  "point": 217.5
+                  "price": 1.92,
+                  "point": 218.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.94,
-                  "point": 217.5
+                  "price": 1.97,
+                  "point": 218.5
                 }
               ]
             }
@@ -5102,7 +3198,7 @@
         {
           "key": "betsson",
           "title": "Betsson",
-          "last_update": "2026-11-24T02:45:37Z",
+          "last_update": "2026-11-25T00:23:06Z",
           "markets": [
             {
               "key": "h2h",
@@ -5122,12 +3218,12 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.9,
+                  "price": 1.86,
                   "point": 218.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.86,
+                  "price": 1.9,
                   "point": 218.5
                 }
               ]
@@ -5137,18 +3233,18 @@
         {
           "key": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-11-24T02:45:07Z",
+          "last_update": "2026-11-25T00:23:06Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Boston Celtics",
-                  "price": 1.22
+                  "price": 1.23
                 },
                 {
                   "name": "Washington Wizards",
-                  "price": 4.62
+                  "price": 4.53
                 }
               ]
             },
@@ -5157,13 +3253,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.93,
-                  "point": 217.5
+                  "price": 1.92,
+                  "point": 218.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.93,
-                  "point": 217.5
+                  "price": 1.95,
+                  "point": 218.5
                 }
               ]
             }
@@ -5172,7 +3268,7 @@
         {
           "key": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-11-24T02:45:07Z",
+          "last_update": "2026-11-25T00:23:06Z",
           "markets": [
             {
               "key": "h2h",
@@ -5193,54 +3289,21 @@
                 {
                   "name": "Over",
                   "price": 1.95,
-                  "point": 217.5
+                  "point": 219.5
                 },
                 {
                   "name": "Under",
                   "price": 1.8,
-                  "point": 217.5
+                  "point": 219.5
                 }
               ]
             }
           ]
         },
         {
-          "key": "betfair_ex_eu",
-          "title": "Betfair",
-          "last_update": "2026-11-24T02:45:37Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boston Celtics",
-                  "price": 1.25
-                },
-                {
-                  "name": "Washington Wizards",
-                  "price": 4.8
-                }
-              ]
-            },
-            {
-              "key": "h2h_lay",
-              "outcomes": [
-                {
-                  "name": "Boston Celtics",
-                  "price": 1.27
-                },
-                {
-                  "name": "Washington Wizards",
-                  "price": 5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "nordicbet",
-          "title": "Nordic Bet",
-          "last_update": "2026-11-24T02:45:23Z",
+          "key": "marathonbet",
+          "title": "Marathon Bet",
+          "last_update": "2026-11-25T00:23:34Z",
           "markets": [
             {
               "key": "h2h",
@@ -5251,7 +3314,7 @@
                 },
                 {
                   "name": "Washington Wizards",
-                  "price": 4.15
+                  "price": 4.85
                 }
               ]
             },
@@ -5260,13 +3323,46 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.9,
+                  "price": 1.89,
                   "point": 218.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.86,
+                  "price": 1.91,
                   "point": 218.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betfair_ex_eu",
+          "title": "Betfair",
+          "last_update": "2026-11-25T00:23:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Boston Celtics",
+                  "price": 1.26
+                },
+                {
+                  "name": "Washington Wizards",
+                  "price": 4.6
+                }
+              ]
+            },
+            {
+              "key": "h2h_lay",
+              "outcomes": [
+                {
+                  "name": "Boston Celtics",
+                  "price": 1.28
+                },
+                {
+                  "name": "Washington Wizards",
+                  "price": 4.8
                 }
               ]
             }
@@ -5285,7 +3381,147 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-11-24T02:45:36Z",
+          "last_update": "2026-11-25T00:23:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dallas Mavericks",
+                  "price": 3.41
+                },
+                {
+                  "name": "Denver Nuggets",
+                  "price": 1.36
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.94,
+                  "point": 234.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.94,
+                  "point": 234.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dallas Mavericks",
+                  "price": 3.2
+                },
+                {
+                  "name": "Denver Nuggets",
+                  "price": 1.32
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 234.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 234.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dallas Mavericks",
+                  "price": 3.53
+                },
+                {
+                  "name": "Denver Nuggets",
+                  "price": 1.33
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.93,
+                  "point": 234.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.93,
+                  "point": 234.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dallas Mavericks",
+                  "price": 3.5
+                },
+                {
+                  "name": "Denver Nuggets",
+                  "price": 1.3
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.8,
+                  "point": 233.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.95,
+                  "point": 233.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "marathonbet",
+          "title": "Marathon Bet",
+          "last_update": "2026-11-25T00:23:34Z",
           "markets": [
             {
               "key": "h2h",
@@ -5296,7 +3532,7 @@
                 },
                 {
                   "name": "Denver Nuggets",
-                  "price": 1.31
+                  "price": 1.3
                 }
               ]
             },
@@ -5305,103 +3541,13 @@
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 1.93,
-                  "point": 232
+                  "price": 1.82,
+                  "point": 233.5
                 },
                 {
                   "name": "Under",
-                  "price": 1.93,
-                  "point": 232
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-11-24T02:45:37Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Dallas Mavericks",
-                  "price": 3.5
-                },
-                {
-                  "name": "Denver Nuggets",
-                  "price": 1.26
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.9,
-                  "point": 232.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.86,
-                  "point": 232.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Dallas Mavericks",
-                  "price": 3.69
-                },
-                {
-                  "name": "Denver Nuggets",
-                  "price": 1.31
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.89,
-                  "point": 231.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.97,
-                  "point": 231.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-11-24T02:45:07Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Dallas Mavericks",
-                  "price": 3.6
-                },
-                {
-                  "name": "Denver Nuggets",
-                  "price": 1.29
+                  "price": 1.99,
+                  "point": 233.5
                 }
               ]
             }
@@ -5410,18 +3556,18 @@
         {
           "key": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-11-24T02:45:37Z",
+          "last_update": "2026-11-25T00:23:28Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Dallas Mavericks",
-                  "price": 3.75
+                  "price": 3.55
                 },
                 {
                   "name": "Denver Nuggets",
-                  "price": 1.33
+                  "price": 1.39
                 }
               ]
             },
@@ -5430,11 +3576,194 @@
               "outcomes": [
                 {
                   "name": "Dallas Mavericks",
-                  "price": 4
+                  "price": 3.6
                 },
                 {
                   "name": "Denver Nuggets",
-                  "price": 1.36
+                  "price": 1.4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f6d199bb67cf3a517a3880fd2f00b26",
+      "sport_key": "basketball_nba",
+      "sport_title": "NBA",
+      "commence_time": "2026-11-25T22:10:00Z",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Miami Heat",
+      "bookmakers": [
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 1.95
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": 1.85
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 238.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 238.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 1.99
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": 1.87
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.93,
+                  "point": 238.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.93,
+                  "point": 238.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 2
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": 1.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 239.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 239.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "marathonbet",
+          "title": "Marathon Bet",
+          "last_update": "2026-11-25T00:23:34Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 2.18
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": 1.71
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.87,
+                  "point": 238.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.93,
+                  "point": 238.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betfair_ex_eu",
+          "title": "Betfair",
+          "last_update": "2026-11-25T00:23:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 1.99
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": 1.93
+                }
+              ]
+            },
+            {
+              "key": "h2h_lay",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 2.08
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": 2.02
                 }
               ]
             }
@@ -5443,18 +3772,316 @@
         {
           "key": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-11-24T02:45:23Z",
+          "last_update": "2026-11-25T00:23:06Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Dallas Mavericks",
-                  "price": 3.5
+                  "name": "Miami Heat",
+                  "price": 1.95
                 },
                 {
-                  "name": "Denver Nuggets",
-                  "price": 1.26
+                  "name": "Philadelphia 76ers",
+                  "price": 1.85
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 238.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 238.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f08629281f1510f47d91cc408f86a2a8",
+      "sport_key": "basketball_nba",
+      "sport_title": "NBA",
+      "commence_time": "2026-11-26T00:40:00Z",
+      "home_team": "New York Knicks",
+      "away_team": "Cleveland Cavaliers",
+      "bookmakers": [
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.25
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.62
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.38
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.62
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.93,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.93,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.3
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.62
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betfair_ex_eu",
+          "title": "Betfair",
+          "last_update": "2026-11-25T00:23:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.36
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.57
+                }
+              ]
+            },
+            {
+              "key": "h2h_lay",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.76
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "nordicbet",
+          "title": "Nordic Bet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.25
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.62
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sport888",
+          "title": "888sport",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cleveland Cavaliers",
+                  "price": 2.3
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": 1.61
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07421d1675d6bc51bb5fa91f84a09eb3",
+      "sport_key": "basketball_nba",
+      "sport_title": "NBA",
+      "commence_time": "2026-11-26T00:40:00Z",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Minnesota Timberwolves",
+      "bookmakers": [
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2.02
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.78
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 224.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2.06
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.81
                 }
               ]
             },
@@ -5464,12 +4091,368 @@
                 {
                   "name": "Over",
                   "price": 1.9,
-                  "point": 232.5
+                  "point": 223.5
                 },
                 {
                   "name": "Under",
+                  "price": 1.97,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 224.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betfair_ex_eu",
+          "title": "Betfair",
+          "last_update": "2026-11-25T00:23:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2.02
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.77
+                }
+              ]
+            },
+            {
+              "key": "h2h_lay",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2.3
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "nordicbet",
+          "title": "Nordic Bet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2.02
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.78
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
                   "price": 1.86,
-                  "point": 232.5
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 224.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sport888",
+          "title": "888sport",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Minnesota Timberwolves",
+                  "price": 2
+                },
+                {
+                  "name": "Oklahoma City Thunder",
+                  "price": 1.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 224.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60fd73164f7b0d1848f998d922155d87",
+      "sport_key": "basketball_nba",
+      "sport_title": "NBA",
+      "commence_time": "2026-11-26T01:40:00Z",
+      "home_team": "Houston Rockets",
+      "away_team": "Phoenix Suns",
+      "bookmakers": [
+        {
+          "key": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.21
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 4
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "onexbet",
+          "title": "1xBet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.25
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 4.22
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.95,
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.92,
+                  "point": 224.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "williamhill",
+          "title": "William Hill",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.22
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 4.2
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 224.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betfair_ex_eu",
+          "title": "Betfair",
+          "last_update": "2026-11-25T00:23:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.26
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 4.1
+                }
+              ]
+            },
+            {
+              "key": "h2h_lay",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.33
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 5.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "nordicbet",
+          "title": "Nordic Bet",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.21
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 4
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.86,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.9,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sport888",
+          "title": "888sport",
+          "last_update": "2026-11-25T00:23:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Houston Rockets",
+                  "price": 1.22
+                },
+                {
+                  "name": "Phoenix Suns",
+                  "price": 4.2
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.91,
+                  "point": 224.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.91,
+                  "point": 224.5
                 }
               ]
             }
